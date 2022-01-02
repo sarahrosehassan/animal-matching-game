@@ -8,4 +8,4 @@ then run .exe file
 
 if you have Visual Studio, open the .sln file and run
 
-<img width="411" alt="Screen Shot 2021-11-29 at 9 00 21 PM" src="https://user-images.githubusercontent.com/59797227/147513666-1a192e6a-5d17-4461-bbe1-8eb2fad7e840.png">
+![animal-matching-game-gif](https://user-images.githubusercontent.com/59797227/147892281-6edd2319-4fca-4d2e-86de-3519235b3a01.gif)
