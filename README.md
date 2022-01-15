@@ -2,7 +2,7 @@
 
 
 To run program, in the command line, navigate to the BlazorMatchGame folder and use the command
-```dotnet run```.
+```dotnet run```
 
 This will open the game in a new browser instance.
 
