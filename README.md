@@ -6,5 +6,5 @@ To run program, in the command line, navigate to the BlazorMatchGame folder and 
 
 This will open the game in a new browser instance.
 
-https://user-images.githubusercontent.com/59797227/147892356-ff8485d6-74b9-4a13-a36c-7b8cb92fb589.mp4
 
+![Coding Projects](https://user-images.githubusercontent.com/59797227/149670635-a32ab490-150d-403a-9737-334689d03b35.gif)
