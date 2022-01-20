@@ -1,5 +1,5 @@
 # Animal Matching Game Project
-
+- C# and the .NET Framework are used in this application
 
 To run program, install the .NET Framework https://docs.microsoft.com/en-us/dotnet/core/install/
 
